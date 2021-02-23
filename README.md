@@ -2,7 +2,7 @@
 Heroes of Pymoli
 
 BACKGROUND<br>
-Using Pandas and Jupyter Notebook, data was anlayzed and a report was created for a fantasy game called Heroes of Pymoli.
+Pandas and Jupyter Notebook were used to analyze data and create a report for a fantasy game called Heroes of Pymoli.
 
 Like many others in its genre, this fantasy game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. The report created breaks down the game's purchasing data into meaningful insights including each of the following:
 
@@ -40,17 +40,17 @@ Like many others in its genre, this fantasy game is free-to-play, but players ar
     - Total Purchase Value<br>
 
 - Most Popular Items
-- - The 5 most popular items by purchase count, with the following listed in a table:
-- - - Item ID
-- - - Item Name
-- - - Purchase Count
-- - - Item Price
-- - - Total Purchase Value<br>
+  - The 5 most popular items by purchase count, with the following listed in a table:
+    - Item ID
+    - Item Name
+    - Purchase Count
+    - Item Price
+    - Total Purchase Value<br>
 
 - Most Profitable Items
-- The 5 most profitable items by total purchase value, with the following listed in a table:
-- - - Item ID
-- - - Item Name
-- - - Purchase Count
-- - - Item Price
-- - - Total Purchase Value
+  - The 5 most profitable items by total purchase value, with the following listed in a table:
+    - Item ID
+    - Item Name
+    - Purchase Count
+    - Item Price
+    - Total Purchase Value
