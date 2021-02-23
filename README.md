@@ -1,6 +1,6 @@
 # pandas-challenge
 Heroes of Pymoli
-<div style="text-align:center"><img src="static/images/fantasy.png" width="1000" height="300"/></div>
+<div style="text-align:center"><img src="static/images/Fantasy.png" width="1000" height="300"/></div>
 BACKGROUND<br>
 Pandas and Jupyter Notebook were used to analyze data and create a report for a fantasy game called Heroes of Pymoli.
 
