@@ -1,10 +1,10 @@
 # pandas-challenge
 **Heroes of Pymoli**
 <div style="text-align:center"><img src="static/images/Fantasy.png" width="1000" height="300"/></div>
-BACKGROUND<br>
+<b>BACKGROUND</b><br>
 Heroes of Pymoli, like many others in its genre, is free-to-play fantasy game but players are encouraged to purchase optional items to enhance their playing experience.<br>
 <br>
-DETAILS<br>
+<b>DETAILS</b><br>
 Pandas and Jupyter Notebook were used to analyze Heroes of Pymoli data and create a report that breaks down the game's purchasing data into meaningful insights including each of the following:
 
 - Player Count
