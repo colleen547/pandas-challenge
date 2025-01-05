@@ -1,4 +1,4 @@
-### Pandas Challenge: **HEROES OF PYMOLI**
+### Pandas Challenge: **Heroes of Pymoli**
 
 <div style="text-align:center"><img src="static/images/Fantasy.png" width="1000" height="300"/></div>
 <b>BACKGROUND</b><br>
