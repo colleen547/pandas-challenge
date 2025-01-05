@@ -57,7 +57,7 @@ Pandas and Jupyter Notebook were used to analyze Heroes of Pymoli data and creat
     - Total Purchase Value
    
  <b>RESULTS</b><br>
- 1. At an average price of $3.05 per game, revenue is volume-driven; therefore, the goal is to get as many players as possible to pay rather than to play for free.
+ 1. At an average price of $3.05 per game, revenue is clearly volume-driven; therefore, the goal is to get as many players as possible to pay rather than to play for free.
  2. Male buyers outnumber females nearly 6 to 1.\n",
  3. Most frequent buyers are players in the 20-24 age group.\n",
  4. Only 7% of total players are older than 34."
