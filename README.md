@@ -1,5 +1,5 @@
-### Pandas Challenge
-**HEROES OF PYMOLI**
+### Pandas Challenge: **HEROES OF PYMOLI**
+
 <div style="text-align:center"><img src="static/images/Fantasy.png" width="1000" height="300"/></div>
 <b>BACKGROUND</b><br>
 Heroes of Pymoli, like many others in its genre, is a free-to-play fantasy game, but players are encouraged to purchase optional items to enhance their playing experience.<br>
